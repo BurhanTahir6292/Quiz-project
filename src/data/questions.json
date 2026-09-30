@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Madrid"
+    ],
+    "answer": "Paris",
+    "category": "Geography",
+    "difficulty": "easy",
+    "explanation": "Paris has been the capital of France since 987 CE under Hugh Capet."
+  },
+  {
+    "id": 2,
+    "question": "Which language is primarily used to build React applications?",
+    "options": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "C++"
+    ],
+    "answer": "JavaScript",
+    "category": "Programming",
+    "difficulty": "easy",
+    "explanation": "React is an open-source JavaScript library developed by Meta for building user interfaces."
+  },
+  {
+    "id": 3,
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyperlink Text Management Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language",
+    "category": "Web Development",
+    "difficulty": "easy",
+    "explanation": "HTML stands for HyperText Markup Language, the standard document format for web pages."
+  },
+  {
+    "id": 4,
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars",
+    "category": "Science",
+    "difficulty": "easy",
+    "explanation": "Mars appears reddish because of widespread iron oxide (rust) on its surface."
+  },
+  {
+    "id": 5,
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "static"
+    ],
+    "answer": "const",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "explanation": "The const keyword creates block-scoped variables whose value binding cannot be reassigned."
+  },
+  {
+    "id": 6,
+    "question": "What hook is used to handle side effects in React?",
+    "options": [
+      "useState",
+      "useReducer",
+      "useEffect",
+      "useCallback"
+    ],
+    "answer": "useEffect",
+    "category": "Programming",
+    "difficulty": "medium",
+    "explanation": "useEffect lets you synchronize a component with external systems such as APIs, timers, and the DOM."
+  },
+  {
+    "id": 7,
+    "question": "What is the speed of light in vacuum approximately?",
+    "options": [
+      "150,000 km/s",
+      "300,000 km/s",
+      "450,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "answer": "300,000 km/s",
+    "category": "Science",
+    "difficulty": "medium",
+    "explanation": "The speed of light in vacuum is approximately 299,792 kilometers per second."
+  },
+  {
+    "id": 8,
+    "question": "Which CSS property is used to create a flexbox layout?",
+    "options": [
+      "display: flex",
+      "layout: flexbox",
+      "flex: true",
+      "box-type: flex"
+    ],
+    "answer": "display: flex",
+    "category": "Web Development",
+    "difficulty": "easy",
+    "explanation": "Setting 'display: flex' establishes a new flex formatting context for an element."
+  },
+  {
+    "id": 9,
+    "question": "Which ocean is the largest on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean",
+    "category": "Geography",
+    "difficulty": "easy",
+    "explanation": "The Pacific Ocean covers more than 30% of the Earth's total surface area."
+  },
+  {
+    "id": 10,
+    "question": "What is the return type of typeof NaN in JavaScript?",
+    "options": [
+      "undefined",
+      "number",
+      "NaN",
+      "object"
+    ],
+    "answer": "number",
+    "category": "JavaScript",
+    "difficulty": "medium",
+    "explanation": "In JavaScript, NaN stands for 'Not a Number' but its technical type is number according to the IEEE 754 spec."
+  }
+]
